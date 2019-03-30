@@ -1,5 +1,5 @@
-*How to run server*
-use following command
+**How to run server**
+use this command:
 `node server.js`
 
 
@@ -17,9 +17,11 @@ PostMan (https://www.getpostman.com/downloads/) tool is used to testing api
 
 
 POST and PUT requests required following fields:
-title
-done
+
+-title
+-done
 
 
 DELETE request required following field:
-title
+
+-title

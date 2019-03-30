@@ -36,7 +36,7 @@ const requestHandler = (request, response) => {
       });
     break;
 
-    // edit item
+    // delete item
     case "DELETE":
       // collect body params and process
       collectRequestData(request, result => {

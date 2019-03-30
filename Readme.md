@@ -5,14 +5,14 @@ use this command:
 
 all reposes are in json
 
-PostMan (https://www.getpostman.com/downloads/) tool is used to testing api
+PostMan (https://www.getpostman.com/downloads/) tool is used to test api
 
 
 *list of requests:*
 
 - to get list: `http://localhost:3000/` (GET)
 - to add new item, make post request to:  `http://localhost:3000/` (POST)
-- to edit new item, make put request to:  `http://localhost:3000/` (PUT)
+- to edit item, make put request to:  `http://localhost:3000/` (PUT)
 - to remove item, make delete request to: `http://localhost:3000/` (DELETE)
 
 
